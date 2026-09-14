@@ -1,0 +1,5 @@
+.worktrees/
+target/
+fixtures/real-world/
+reports/real-world/
+docs/
